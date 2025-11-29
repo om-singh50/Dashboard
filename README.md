@@ -19,8 +19,8 @@ This dashboard includes a full user listing, user details page, analytics charts
 > Add actual screenshots after deploying
 
 | Users (Light Mode) | Users (Dark Mode) | Analytics (Light Mode) |Analytics (Dark Mode)|
-|-----------|--------------|-----------|
-| ![Users](screenshots/users.png) | ![Details](screenshots/details.png) | ![Analytics](screenshots/analytics.png) |
+|-----------|--------------|-----------|-----------------|
+| !(screenshots/usersLight.png) | !(screenshots/usersDark.png) | !(screenshots/analyticsLight.png) |!(screenshots/analyticsDark.png) |
 
 ---
 
