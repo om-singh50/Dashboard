@@ -1,6 +1,5 @@
 # ⭐ User Management Dashboard (React + Vite + Redux Toolkit)
 
-A clean, modern **User Management Dashboard** built as part of an assignment.  
 This project showcases real-world frontend engineering skills using:
 
 - **React (Vite)**
@@ -19,7 +18,7 @@ This dashboard includes a full user listing, user details page, analytics charts
 
 > Add actual screenshots after deploying
 
-| Users List | User Details | Analytics |
+| Users (Light Mode) | Users (Dark Mode) | Analytics (Light Mode) |Analytics (Dark Mode)|
 |-----------|--------------|-----------|
 | ![Users](screenshots/users.png) | ![Details](screenshots/details.png) | ![Analytics](screenshots/analytics.png) |
 
