@@ -24,13 +24,6 @@ This dashboard includes a full user listing, user details page, analytics charts
 
 ---
 
-## 🚀 Live Demo (Optional)
-If deployed on Vercel/Netlify, add link here:
-
-👉 **Live URL:** https://your-deployment-url.vercel.app
-
----
-
 ## 📦 Tech Stack
 
 - **React + Vite**
@@ -70,7 +63,7 @@ If deployed on Vercel/Netlify, add link here:
   - Theme-aware tooltips
   - Legend
 
-### ⭐ Bonus (Not Required but Added)
+### ⭐ Bonus 
 - **Debounced Search**
 - **Skeleton Loaders**
 - **Dark/Light Mode**
@@ -164,9 +157,9 @@ npm run build
 ```
 # 🧪 Future Enhancements (Optional Ideas)
 
--Replace mock API with backend (Node/Express)
--Add authentication
--Role-based access
--Export table data (CSV/PDF)
--React Query for fetching users
--Unit tests with Vitest
+- Replace mock API with backend (Node/Express)
+- Add authentication
+- Role-based access
+- Export table data (CSV/PDF)
+- React Query for fetching users
+- Unit tests with Vitest
