@@ -20,7 +20,7 @@ This dashboard includes a full user listing, user details page, analytics charts
 
 | Users (Light Mode) | Users (Dark Mode) | Analytics (Light Mode) |Analytics (Dark Mode)|
 |-----------|--------------|-----------|-----------------|
-| ![Users]screenshots/usersLight.png | screenshots/usersDark.png | screenshots/analyticsLight.png |screenshots/analyticsDark.png |
+| ![Click Here](screenshots/usersLight.png) | ![Click Here](screenshots/usersDark.png) | ![Click Here](screenshots/analyticsLight.png) |![Click Here](screenshots/analyticsDark.png) |
 
 ---
 
